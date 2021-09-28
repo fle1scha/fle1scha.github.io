@@ -3,13 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hi, I'm Antony Fleischer, a South African software engineer and economist. I am about to graduate from the University of Cape Town with a B.SC. (Hons) in Computer Science (major) and Economics (minor). 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+It is my ambition to solve developmental socio-economic issues in Africa using fintech, agritech and blockchain. I am also impassioned by sustainability, food, and InfoSec, and have a natural afinity to water. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+If you'd like to get in touch, you'll find me cliff jumping, playing rugby, cooking or at my desk. In all seriousness, if you would like to get in touch, please send me an email or reach out on twitter. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Ciao. 
