@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi,
+title: About
 permalink: /about/
 ---
 I'm Antony Fleischer, a South African software engineer and economist. I am about to graduate from the University of Cape Town with a B.SC. (Hons) in Computer Science (major) and Economics (minor). 
