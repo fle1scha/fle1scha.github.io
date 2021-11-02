@@ -1,0 +1,130 @@
+* {
+    font-family: Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+h1 {
+    color: #303661;
+    font-size: 50px;
+}
+
+h2 {
+    color: #303661;
+    font-size: 30px;
+    padding: 2px 10px 2px 0;
+    margin: 10px;
+}
+
+.description {
+    padding: 2px 10px 2px 0;
+    margin: 10px;
+}
+
+.segmentBlack {
+    
+    background-color:#F8F4E4;
+    color: whitesmoke;
+    padding: 100px;
+}
+
+.segmentNatural {
+    background-color: #ffffb5;
+    color: black;
+    padding: 100px;
+}
+
+
+#menu ul {
+    list-style-type: none;
+    margin: 2px;
+    padding: 2px;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+li {
+    font-size: 18px;
+    float: left;
+}
+
+li a:hover {
+    background-color: #becf7d;
+}
+
+#intro_top {
+    font-size: 30px;
+    color: #303661;
+    margin: 10px 0 0 0;
+}
+
+#intro_top #hello
+{   
+    color: orange;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#intro_bottom {
+    font-size: 30px;
+    color: #303661;
+    margin: 0 0 10px 0;
+    scroll-padding-right: 10px;
+}
+
+#intro_bottom #profession {
+    color: orange;
+    font-size: 40px;
+    font-weight: bolder;
+    
+}
+
+#home div
+{
+    width: 600px;
+}
+div {
+    min-height: 758px;
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+}
+
+/* Navigation Buttons in Sections */
+.scrolly {
+    margin: 10px;
+    background-color:#303661;
+    border-radius: 3em;
+    color: white !important;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 0.6em;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    line-height: 4.75em;
+    padding: 0 2.75em;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 100px;
+}
+
+/* Menu Buttons */
+#menu nav a { 
+    border: 0;
+    color: rgba(255, 255, 255, 0.6);
+    display: block;
+    font-size: 0.6em;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    line-height: 1.75;
+    outline: 0;
+    padding: 1.35em 0;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+}
